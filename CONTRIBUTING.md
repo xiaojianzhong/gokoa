@@ -43,7 +43,6 @@ The following is the list of supported scopes **currently**:
 - request
 - response
 - middleware
-- example
 
 [angular-commit-message-guidelines]: https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-guidelines
 [commitlint]: https://github.com/conventional-changelog/commitlint
