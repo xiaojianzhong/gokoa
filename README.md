@@ -1,11 +1,11 @@
-# gokoa
+# GoKoa
 
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/azxj/gokoa/Golang)
 ![GitHub repo size](https://img.shields.io/github/repo-size/azxj/gokoa)
 ![GitHub last commit](https://img.shields.io/github/last-commit/azxj/gokoa)
 ![GitHub](https://img.shields.io/github/license/azxj/gokoa)
 
-[koa][koa] styled web framework written in Go (Golang).
+[Koa][koa] styled web framework written in Go (Golang).
 
 Read this in other languages: English | [简体中文](./README_zh-CN.md)
 
@@ -26,9 +26,9 @@ Read this in other languages: English | [简体中文](./README_zh-CN.md)
 
 ## <a name="introduction"></a> Introduction
 
-[Gokoa](gokoa) is a koa styled web framework, which aims at reducing learning cost in grasping web development in Go for Node.js developers.
+[GoKoa](gokoa) is a koa styled web framework, which aims at reducing learning cost in grasping web development in Go for Node.js developers.
 
-Gokoa is written in Go, which is beneficial to improving performance in handling HTTP requests.
+GoKoa is written in Go, which is beneficial to improving performance in handling HTTP requests.
 
 ## <a name="prerequisites"></a> Prerequisites
 
@@ -36,7 +36,7 @@ Gokoa is written in Go, which is beneficial to improving performance in handling
 
 ## <a name="installation"></a> Installation
 
-You can easily fetch the newest version of Gokoa by executing `go get`:
+You can easily fetch the newest version of GoKoa by executing `go get`:
 
 ```bash
 $ go get github.com/azxj/gokoa
@@ -67,7 +67,7 @@ func main() {
 
 1. lack of event emitting, except for `app.OnError()`
 2. not able to customize HTTP reason phrase (don't do that cause it breaks the best practice)
-3. not able to bypass Gokoa's response handling (actually it is deprecated by Koa, too)
+3. not able to bypass GoKoa's response handling (actually it is deprecated by Koa, too)
 4. not able to access the socket related to a HTTP connection
 5. lack of `headerSent` property
 
