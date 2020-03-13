@@ -26,7 +26,7 @@
 
 ## <a name="introduction"></a> 介绍
 
-[GoKoa](gokoa) 是一个 koa 风格的 web 框架，致力于减少 Node.js 开发者迁移到 Go web 开发过程中的学习成本。
+[GoKoa](gokoa) 是一个 Koa 风格的 web 框架，致力于减少 Node.js 开发者迁移到 Go web 开发过程中的学习成本。
 
 GoKoa 用 Go 编写，这有利于提高处理 HTTP 请求的性能。
 

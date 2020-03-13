@@ -26,7 +26,7 @@ Read this in other languages: English | [简体中文](./README_zh-CN.md)
 
 ## <a name="introduction"></a> Introduction
 
-[GoKoa](gokoa) is a koa styled web framework, which aims at reducing learning cost in grasping web development in Go for Node.js developers.
+[GoKoa](gokoa) is a Koa styled web framework, which aims at reducing learning cost in grasping web development in Go for Node.js developers.
 
 GoKoa is written in Go, which is beneficial to improving performance in handling HTTP requests.
 
