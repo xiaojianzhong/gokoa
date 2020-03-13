@@ -5,7 +5,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/azxj/gokoa)
 ![GitHub](https://img.shields.io/github/license/azxj/gokoa)
 
-[Koa][koa] styled web framework written in Go (Golang).
+[Koa][koa] styled web framework written in Go.
 
 Read this in other languages: English | [简体中文](./README_zh-CN.md)
 

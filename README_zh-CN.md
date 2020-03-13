@@ -5,7 +5,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/azxj/gokoa)
 ![GitHub](https://img.shields.io/github/license/azxj/gokoa)
 
-[Koa](koa) 风格的，基于 Go (Golang) 的 web 框架。
+[Koa](koa) 风格的，基于 Go 的 web 框架。
 
 阅读其他语言的版本：[English](./README.md) | 简体中文
 
