@@ -1,4 +1,4 @@
-module github.com/azxj/gokoa
+module github.com/xiaojianzhong/gokoa
 
 go 1.13
 

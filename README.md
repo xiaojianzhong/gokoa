@@ -1,9 +1,9 @@
 # GoKoa
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/azxj/gokoa/Golang)
-![GitHub repo size](https://img.shields.io/github/repo-size/azxj/gokoa)
-![GitHub last commit](https://img.shields.io/github/last-commit/azxj/gokoa)
-![GitHub](https://img.shields.io/github/license/azxj/gokoa)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/xiaojianzhong/gokoa/Golang)
+![GitHub repo size](https://img.shields.io/github/repo-size/xiaojianzhong/gokoa)
+![GitHub last commit](https://img.shields.io/github/last-commit/xiaojianzhong/gokoa)
+![GitHub](https://img.shields.io/github/license/xiaojianzhong/gokoa)
 
 [Koa][koa] styled web framework written in Go.
 
@@ -39,7 +39,7 @@ GoKoa is written in Go, which is beneficial to improving performance in handling
 You can easily fetch the newest version of GoKoa by executing `go get`:
 
 ```bash
-$ go get github.com/azxj/gokoa
+$ go get github.com/xiaojianzhong/gokoa
 ```
 
 ## <a name="quick-start"></a> Quick Start
@@ -48,7 +48,7 @@ $ go get github.com/azxj/gokoa
 package main
 
 import (
-	"github.com/azxj/gokoa"
+	"github.com/xiaojianzhong/gokoa"
 )
 
 func main() {
@@ -88,9 +88,9 @@ func main() {
 You can easily run unit tests by executing `go test`:
 
 ```bash
-$ go test github.com/azxj/gokoa
+$ go test github.com/xiaojianzhong/gokoa
 ```
 
 [koa]: https://github.com/koajs/koa
 [go]: https://golang.org/
-[gokoa]: https://github.com/azxj/gokoa
+[gokoa]: https://github.com/xiaojianzhong/gokoa

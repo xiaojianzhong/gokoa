@@ -1,9 +1,9 @@
 # GoKoa
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/azxj/gokoa/Golang)
-![GitHub repo size](https://img.shields.io/github/repo-size/azxj/gokoa)
-![GitHub last commit](https://img.shields.io/github/last-commit/azxj/gokoa)
-![GitHub](https://img.shields.io/github/license/azxj/gokoa)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/xiaojianzhong/gokoa/Golang)
+![GitHub repo size](https://img.shields.io/github/repo-size/xiaojianzhong/gokoa)
+![GitHub last commit](https://img.shields.io/github/last-commit/xiaojianzhong/gokoa)
+![GitHub](https://img.shields.io/github/license/xiaojianzhong/gokoa)
 
 [Koa](koa) 风格的，基于 Go 的 web 框架。
 
@@ -39,7 +39,7 @@ GoKoa 用 Go 编写，这有利于提高处理 HTTP 请求的性能。
 通过执行 `go get`，你可以轻松获得 GoKoa 的最新版本：
 
 ```bash
-$ go get github.com/azxj/gokoa
+$ go get github.com/xiaojianzhong/gokoa
 ```
 
 ## <a name="quick-start"></a> 快速上手
@@ -48,7 +48,7 @@ $ go get github.com/azxj/gokoa
 package main
 
 import (
-	"github.com/azxj/gokoa"
+	"github.com/xiaojianzhong/gokoa"
 )
 
 func main() {
@@ -88,10 +88,10 @@ func main() {
 通过执行 `go test`，你可以轻松运行 GoKoa 的所有单元测试：
 
 ```bash
-$ go test github.com/azxj/gokoa
+$ go test github.com/xiaojianzhong/gokoa
 ```
 
 [koa]: https://github.com/koajs/koa
 [go]: https://golang.org/
-[gokoa]: https://github.com/azxj/gokoa
+[gokoa]: https://github.com/xiaojianzhong/gokoa
 

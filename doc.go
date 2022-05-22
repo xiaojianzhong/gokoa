@@ -4,7 +4,7 @@ Package gokoa is a Koa styled web framework written in Go.
 	package main
 
 	import (
-		"github.com/azxj/gokoa"
+		"github.com/xiaojianzhong/gokoa"
 	)
 
 	func main() {
